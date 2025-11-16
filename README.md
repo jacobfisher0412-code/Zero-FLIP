@@ -52,7 +52,7 @@
 ZERO-FLIP SCREENSHOT TRAILER git clone https://github.com/yourusername/zero-flip.git
  
 
- 
+ https://chatgpt.com/s/m_691a5b246f9c819183682dd8922fb659
 ![Screenshot](link_to_screenshot_2)  
 
 ---
