@@ -49,7 +49,7 @@
 
 ## Screenshots 📸
 *(Add your game screenshots here)*  
-ZERO-FLIP SCREENSHOT TRAILER git clone https://github.com/yourusername/zero-flip.git
+ZERO-FLIP SCREENSHOT TRAILER https://chatgpt.com/s/m_691a5b246f9c819183682dd8922fb659
  
 
  
